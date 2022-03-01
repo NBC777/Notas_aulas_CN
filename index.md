@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+Repositório para as notas de aula da disciplina de Cálculo Numérico.
 
 You can use the [editor on GitHub](https://github.com/NBC777/Notas_aulas_CN/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
